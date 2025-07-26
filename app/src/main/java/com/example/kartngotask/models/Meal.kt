@@ -8,7 +8,7 @@ import androidx.room.PrimaryKey
 @Entity(tableName = "mealsTable", indices = [Index(value = ["title"], unique = true)])
 class Meal(
     @ColumnInfo
-    @PrimaryKey(autoGenerate = true)
+    @PrimaryKey(autoGenerate = true) // Proxy AI
     val id: Int = 0,
     @ColumnInfo(name = "title") val mealTitle: String,
     @ColumnInfo(name = "price") val mealPrice: Double,

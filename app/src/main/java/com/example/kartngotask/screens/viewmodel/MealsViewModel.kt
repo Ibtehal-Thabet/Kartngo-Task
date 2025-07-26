@@ -67,8 +67,6 @@ class MealsViewModel(application: Application) : AndroidViewModel(application) {
             mealList.forEach {
                 mealsRepository.insertMeals(it)
             }
-
-
         }
     }
 

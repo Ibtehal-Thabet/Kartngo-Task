@@ -90,7 +90,6 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 override fun onTabReselected(tab: TabLayout.Tab?) {
-//
                 }
             }
         )

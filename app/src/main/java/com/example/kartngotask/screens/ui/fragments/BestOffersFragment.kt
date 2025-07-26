@@ -28,7 +28,7 @@ class BestOffersFragment: Fragment() {
 
         _viewBinding = FragmentBestOffersBinding.inflate(inflater, container,false)
         viewBinding.viewModel = viewModel
-        viewBinding.lifecycleOwner = viewLifecycleOwner
+        viewBinding.lifecycleOwner = viewLifecycleOwner // Proxy AI
 
         return viewBinding.root
     }

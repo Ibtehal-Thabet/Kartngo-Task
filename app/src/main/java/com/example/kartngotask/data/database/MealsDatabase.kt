@@ -13,9 +13,9 @@ import com.example.kartngotask.models.Meal
     exportSchema = true
 )
 abstract class MealsDatabase : RoomDatabase() {
-    abstract fun mealsDao(): MealsDao
+    abstract fun mealsDao(): MealsDao // Proxy AI
 
-    companion object {
+    companion object {  // Proxy AI
 
         @Volatile
         private var INSTANCE: MealsDatabase? = null
