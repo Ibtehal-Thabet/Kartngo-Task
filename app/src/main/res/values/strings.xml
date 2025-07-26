@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Kartngo Task</string>
+    <string name="categories">التصنيفات</string>
+    <string name="view_cart">عرض السلة</string>
+</resources>
