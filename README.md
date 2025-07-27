@@ -6,7 +6,7 @@
 # Technologies Used:
 - Kotlin
 - MVVM
-- SQLite
+- Room Database
 - LiveData
 - Data Biding
 
