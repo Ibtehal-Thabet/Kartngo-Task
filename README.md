@@ -16,4 +16,7 @@
 - Also, It was suggested some of UI updates to make it more suitable.
 
 
-https://github.com/Ibtehal-Thabet/Kartngo-Task/blob/master/Kartngo%20Task%20Video.mp4
+
+
+https://github.com/user-attachments/assets/c397bcb2-5c5f-4bde-a33d-3570988fce74
+
